@@ -22,4 +22,4 @@ This work with event change handling operation.
 I used applicaton.yml for specifying application necessary connection properties.
 
 # Packages
-Entity,Repositories,Services,Control, and View.
+Entities,Repositories,Services,Controllers, and Views.
